@@ -115,15 +115,6 @@ YES!!! We are in an open beta currently and would love to hear your feedback. [C
 
 We are active daily on our  and can help with any problems you may have! If discord doesn’t work for you, reach out to 
 
-# Contact Us
-
-Our team is primarily in U.S. timezones, but we are pretty active on Discord and over email! We've love to hear your thoughts, feedback, ideas or provide any support you need.
-
-* [Discord](https://discord.gg/jYCHaMASz7)
-
-* [contact@joinhallway.com](mailto:contact@joinhallway.com)
-
-* [support@joinhallway.com](mailto:support@joinhallway.com)
 
 # Other Hallway Tools
 
