@@ -118,7 +118,7 @@ We are active daily on our  and can help with any problems you may have! If disc
 
 # Other Hallway Tools
 
-* https://github.com/Hallway-Inc/AvatarWebKit-Rendering
+* https://github.com/ai-ml-agent/AI-Avatar-Web-Kit-Rendering
 
 If you are using Three.js, we've released this open source tooling module you can import freely. This pairs especially well with video-call style apps, as we provide a three world setup that works well for rendering multiple avatars on screen at once Zoom-style.
 
