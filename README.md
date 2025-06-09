@@ -1,7 +1,7 @@
 <p align="center">
   <img width="33%" height="auto" src="docs/assets/tryMe.gif">
   <h1 align="center">
-    ARCHIVED - AvatarWebKit by Hallway
+    ARCHIVED - AvatarWebKit by Dope!!! It is me!!!
   </h1>
 </p>
 
